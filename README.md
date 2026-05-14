@@ -205,7 +205,7 @@ spec:
 Застосування:
 
 ```bash
-kubectl apply -f dragonfly.yaml
+kubectl apply -f apps/course-app/k8s/dragonfly.yaml
 
 dragonfly.dragonflydb.io/dragonfly created
 ```
